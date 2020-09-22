@@ -13,7 +13,7 @@ body {
   border-radius: 10px;
   background-color: rgb(90, 89, 90);
 }
-x
+
 /* pieces are div within game table cells: draw as colored circles */
 
 .piece {
